@@ -1,1 +1,4 @@
-conda install -c conda-forge liblsl
+channles:
+  - conda-forge
+dependencies:
+  - liblsl
