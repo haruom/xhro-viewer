@@ -1,4 +1,2 @@
-channles:
-  - conda-forge
 dependencies:
-  - liblsl
+  - conda-forge::liblsl
